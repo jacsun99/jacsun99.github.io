@@ -1,6 +1,6 @@
-## Welcome to my website!
+# Welcome to my website!
 
-# About Me
+## About Me
 My name is **Jackie Sun** and I enjoy embroidering, reading, cooking, running, climbing, listening to podcasts, keeping my plants alive, exploring my city, and impulsively purchasing flowers.
 
 I recently graduated from **Rutgers University - New Brunswick** with degrees in computer science and cognitive science and I'm currently working as a Government and Public Services Business Analyst for **Deloitte Consulting** in the DMV area.
