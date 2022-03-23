@@ -3,7 +3,7 @@
 ## About Me
 My name is **Jackie Sun** and I enjoy embroidering, reading, cooking, running, climbing, listening to podcasts, keeping my plants alive, exploring my city, and impulsively purchasing flowers.
 
-I recently graduated from **Rutgers University - New Brunswick** with degrees in computer science and cognitive science and I'm currently working as a Government and Public Services Business Analyst for **Deloitte Consulting** in the DMV area.
+I recently graduated from **[Rutgers University - New Brunswick]**(https://newbrunswick.rutgers.edu/) with degrees in computer science and cognitive science and I'm currently working as a Government and Public Services Business Analyst for [**Deloitte Consulting**] (https://www2.deloitte.com/global/en/services/consulting-deloitte.html) in the DMV area.
 
 I recently moved to Washington, DC and I've been using this as an opportunity to start fresh and grow myself into a better person with each passing day.
 
